@@ -1,0 +1,2 @@
+# NVqqcsy3lt
+本系统是一款基于SpringBoot和Vue的考勤管理系统，旨在实现员工考勤的自动化管理。系统提供登录功能，使普通员工可便捷地记录考勤，同时支持后端采用SpringBoot整合MyBatis，确保数据处理高效稳定。前端使用Vue和ElementUI构建友好的用户界面，适用于多种设备。该系统以MySQL8.0为数据库，借助Maven构建，推荐使用IDEA或Eclipse进行开发，为企业和团队提供了一站式的考勤解决方案。
